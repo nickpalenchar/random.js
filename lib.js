@@ -1,4 +1,4 @@
-let rInt = n=1 => Math.floor(Math.random() * n);
+let rInt = n => Math.floor(Math.random() * n);
 
 export class random {
 
