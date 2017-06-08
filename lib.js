@@ -10,4 +10,8 @@ export class random {
     
   }
   
+  shuffle(x, random) {
+     
+  }
+  
 }
